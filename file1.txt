@@ -1,6 +1,7 @@
 Added come code here
 Creating branch testBranch
 Added code here in main
+Creating branch testBranch2
 Commit1
 Commit2
-Creating branch testBranch2
+TestBranch Commit1
