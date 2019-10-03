@@ -5,3 +5,4 @@ Creating branch testBranch2
 Commit1
 Commit2
 TestBranch Commit1
+TestBranch Commit2
