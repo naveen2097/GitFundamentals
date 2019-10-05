@@ -8,3 +8,4 @@ TestBranch Commit1
 TestBranch Commit2
 Feature branch Commit1
 Feature branch Commit2
+Feature Branch2 Commit
