@@ -6,3 +6,4 @@ Commit1
 Commit2
 TestBranch Commit1
 TestBranch Commit2
+Feature branch Commit1
